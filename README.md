@@ -8,17 +8,17 @@ Konten materi pembelajaran pada workshop kali ini akan menggunakan jupyter noteb
 3. Modul 3 (Pengenalan dan Praktik menggunakan Bahasa Pemrograman Python) ==>> 1 Jam
 - Matematika dalam Python
 - Bekerja dengan variabel
-3.4 Tipe data dalam Python (String dan Numeric)
-3.5 Iterasi (List, Tuples, Sets)
-3.6 Dictionary
-3.7 Loop
-3.9 Booleans
-4.0 Conditional Statement
-5.0 Function
+- Tipe data dalam Python (String dan Numeric)
+- Iterasi (List, Tuples, Sets)
+- Dictionary
+- Loop
+- Booleans
+- Conditional Statement
+- Function
 
 4. Modul 4 (Pengenalan Modul Pandas) ==>> 1 Jam
-4.1 Pandas Dataframe
-4.2 Membaca Data dengan Pandas
-4.3 Data Wringling
+- Pandas Dataframe
+- Membaca Data dengan Pandas
+- Data Wringling
    
 5. Modul 5 (Pengolahan Data Spasial dengan Geopandas)
